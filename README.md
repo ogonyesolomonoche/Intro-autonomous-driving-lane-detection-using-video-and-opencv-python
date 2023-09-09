@@ -1,14 +1,10 @@
 # Intro-autonomous-driving-lane-detection-using-video-and-opencv-python
 
+https://github.com/ogonyesolomonoche/Intro-autonomous-driving-lane-detection-using-video-and-opencv-python/assets/72144102/afdb194f-6865-4e24-af3e-5365bad4bf7c
 
 
-https://github.com/ogonyesolomonoche/Intro-autonomous-driving-lane-detection-using-video-and-opencv-python/assets/72144102/08a0db7b-59d5-405f-b2f1-8cccf19cb615
+https://github.com/ogonyesolomonoche/Intro-autonomous-driving-lane-detection-using-video-and-opencv-python/assets/72144102/d8ee26af-5389-4386-a91a-cc8c2cf3a0cd
 
 
-
-https://github.com/ogonyesolomonoche/Intro-autonomous-driving-lane-detection-using-video-and-opencv-python/assets/72144102/eca70641-65ce-44c8-8f68-f155ed53fcc1
-
-
-
-https://github.com/ogonyesolomonoche/Intro-autonomous-driving-lane-detection-using-video-and-opencv-python/assets/72144102/0d80c245-250f-4073-b70d-ab6d7bbbab03
+https://github.com/ogonyesolomonoche/Intro-autonomous-driving-lane-detection-using-video-and-opencv-python/assets/72144102/5927cb06-487e-4fa5-b784-309f9a48b299
 
